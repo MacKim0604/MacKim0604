@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Candidate Personal Details
 
-- NAME:	DONG GEON, KIM (Male)
-- DATE OF BIRTH:	2002.06. 04
-- NATIONALITY:	Korean
-- LANGUAGE:	Korean(Native), English(Mid)
-- MAIN SITE:	Korea
+- Name :	DONG GEON, KIM (Male)
+- Date of birth :	2002.06. 04
+- Nationary :	Korean
+- Language :	Korean(Native), English(Mid)
+- Main site :	Korea
 
 
 &nbsp;
