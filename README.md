@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 # Information
 
-## CANDIDATE PERSONAL DETAILS
+## Candidate Personal Details
 
 - NAME:	DONG GEON, KIM (Male)
 - DATE OF BIRTH:	2002.06. 04
