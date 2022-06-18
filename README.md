@@ -39,15 +39,13 @@ You can click the Preview link to take a look at your changes.
 ## Education
 
 - 인천전자마이스터고등학교, Incheon Electronic Meister High School., Korea
-
   - 2018.03 ~ 2021.01
   - Electronic Circuit Design Department
   - C, C++, Java, Python
   - OR-CAD(Circuit) & Allegro pcb editor(PCB Artwork) OR-CAD(Circuit) 
   - VS code, Pycharm, Eclipse JD, MS Visual C 2010, Verilog HDL.
 
-- Korean national open Univ., Korea
-
+- 한국방송통신대학교, Korean national open Univ., Korea
   - 2022 ~
   - Computer Science Department
   - C, Java, Python, HTML & CSS and Javascript
@@ -58,7 +56,6 @@ You can click the Preview link to take a look at your changes.
 ## Career
 
 - REDEYE FORENSICS (Incheon, Korea)
-
   - SW prgorammer
   - Data Visualization SW Programmer of SW Team
     - Planned, Developed, and Tested Windows program project by alone 
@@ -74,12 +71,10 @@ You can click the Preview link to take a look at your changes.
       -	Development Search Function on JAVA Lucene library.
 
 - ThunderSoft-Korea (Pangyo, Korea)
-
   - SW programmer
   - AI Multimedia-Camera Team
     - Develop automation tools for testing
     - Test Automation System Maintenance
-    
   - Projects in detail
     - Camera CI & CD
     - Display Camera CTS & VTS & UNIT Test Result on dashboards 
