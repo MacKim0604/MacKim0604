@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   - VS code, Pycharm, Eclipse JD, MS Visual C 2010, Verilog HDL.
 
 - 한국방송통신대학교, Korean national open Univ., Korea
-  - 2022 ~
+  - 2022.03 ~
   - Computer Science Department
   - C, Java, Python, HTML & CSS and Javascript
 
