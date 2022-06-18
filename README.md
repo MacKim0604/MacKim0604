@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 
 
-## KEY SKILLS
+## Key Skills
 
 - Development of HTML page on HTML, CSS and JavaScript 
 - Development of window GUI program on Python QT library. 
